@@ -55,6 +55,11 @@ plan:
             path: contracts/insurance-policy.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: policy-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/policy-nft.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: premium-payment
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/premium-payment.clar

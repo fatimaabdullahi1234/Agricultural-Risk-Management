@@ -13,3 +13,5 @@ M
 tests/premium-payment.test.ts,b/f/bf78b6620f8bee5696dd020bdeb2154c3fafecdd
 I
 contracts/policy-nft.clar,3/4/3438263f42b1c18afc22f092c8129428f79de1f6
+H
+tests/policy-nft.test.ts,1/0/10368dcfa8b5479df854310f02d4ff8167ad007b
